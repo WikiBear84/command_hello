@@ -8,5 +8,6 @@ public class hello {
 		System.out.println("update!!!");
 		System.out.println("Tell master World~!!!!!!");
 		System.out.println("Tell hotfix world");
+		System.out.println("Tell my world");
 	}
 }
